@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "playwright-python"
-version = "0.1.0"
+version = "3.11.8"
 description = ""
 authors = ["pythoninthegrass <4097471+pythoninthegrass@users.noreply.github.com>"]
 readme = "README.md"
